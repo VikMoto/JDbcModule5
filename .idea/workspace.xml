@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60af567d-d84f-4090-83b5-22a81874d8c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/find_longest_project.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/find_max_projects_client.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/find_max_salary_worker.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/find_youngest_eldest_workers.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/init_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/populate_db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sql/print_project_prices.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/Module5Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/database/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/LongestProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/MaxProjectCountClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/MaxSalaryWorkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/PrintProjectPrices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/SelectQueries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/selectQueries/YoungestEldestWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/service/DataBasePrepareStatementQueryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/service/DatabaseInitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/service/DatabasePopulateService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/service/DatabaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/utils/ExecuteService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/jdbcModule5/utils/Prefs.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MKVMQy2MRtYx2jw0UuBLXIKTkr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Business/Code/Projects/JavaDev/JdbcModule5/src/main/java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Business\Code\Projects\JavaDev\JdbcModule5\src\main\java" />
+      <recent name="E:\Business\Code\Projects\JavaDev\JdbcModule5" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Module5Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbcModule5.Module5Runner" />
+      <module name="JdbcModule5.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jdbcModule5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Module5Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60af567d-d84f-4090-83b5-22a81874d8c0" name="Changes" comment="" />
+      <created>1677516213140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677516213140</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
